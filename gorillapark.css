@@ -1,0 +1,154 @@
+@charset "UTF-8";
+
+body {
+ background-image: url("baggrund.jpg");
+ background-color: #cccccc;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #007337;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+li {
+  float: left;
+      
+}
+
+li a {
+  display: block;   
+  color: white;    
+  text-align: center;
+  font-family: 'raleway bold', sans-serif;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-left: 60px;
+ 
+}
+
+
+li a:hover {
+  background-color: #462d18;     
+    
+}
+
+.vl {
+  border-left: 8px solid #007337;
+  height: 2249px;
+  position: absolute;
+  left: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.vl2 {
+  border-left: 8px solid #007337;
+  height: 2249px;
+  position: absolute;
+  right: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.hr {
+  width: 1234px;
+  height: 8px;
+  background-color:#007337;
+  position: relative;
+  object-position: top;
+  margin-left: 10%;
+  width: 80%;
+  margin-top: -410px;
+}
+
+.hr2 {
+  width: 1234px;
+  height: 8px;
+  background-color:#007337;
+  position: relative;
+  object-position: top;
+  margin-left: 10%;
+  width: 80%;
+  margin-top: 397px;
+}
+
+
+.logoweb {
+    height: 400px;
+    margin-left: 124px;
+    width: 80%;
+}
+
+h1 {
+    padding-top: 10px;
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    text-align: center;
+}
+
+.p1 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p2 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p3 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.klatring {
+    width: 50%;
+    margin-left: 315px;
+    padding-top: 10px;
+}
+
+.bigswing {
+    width: 50%;
+    margin-left: 315px;
+    padding-top: 10px;
+}
+
+.cafe {
+    width: 50%;
+    margin-left: 315px;
+    padding-top: 10px;
+}
+
+.footer {
+    color:white;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;  
+   
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-left: 60px;
+    text-align: center;
+    padding: 8px 10px;
+    max-width: 100%;
+    font-size: 14px;
+    font-family: 'raleway', sans-serif;
+}
+     
+    
