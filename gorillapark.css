@@ -60,7 +60,6 @@ li a:hover {
   height: 8px;
   background-color:#007337;
   position: relative;
-  object-position: top;
   margin-left: 10%;
   width: 80%;
   margin-top: -410px;
@@ -71,7 +70,6 @@ li a:hover {
   height: 8px;
   background-color:#007337;
   position: relative;
-  object-position: top;
   margin-left: 10%;
   width: 80%;
   margin-top: 397px;
@@ -150,5 +148,277 @@ h1 {
     font-size: 14px;
     font-family: 'raleway', sans-serif;
 }
-     
-    
+
+/* Svendborg fanen */
+
+.p4 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.vl3 {
+  border-left: 8px solid #007337;
+  height: 2407px;
+  position: absolute;
+  left: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.vl4 {
+  border-left: 8px solid #007337;
+  height: 2407px;
+  position: absolute;
+  right: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+   
+/* Vejle fanen */
+
+.p5 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.vl5 {
+  border-left: 8px solid #007337;
+  height: 2204px;
+  position: absolute;
+  left: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.vl6 {
+  border-left: 8px solid #007337;
+  height: 2204px;
+  position: absolute;
+  right: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.billede1 {
+    width: 50%;
+    margin-left: 315px;
+    padding-top: 10px;
+}
+
+.billede2 {
+    width: 50%;
+    margin-left: 315px;
+    padding-top: 10px;
+}
+
+.billede3 {
+    width: 50%;
+    margin-left: 315px;
+    padding-top: 10px;
+}
+
+.billede4 {
+    width: 50%;
+    margin-left: 315px;
+    padding-top: 10px;
+}
+
+
+/* Nyheder fanen */
+
+.p6 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p61 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p62 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p63 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p64 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p65 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.vl7 {
+  border-left: 8px solid #007337;
+  height: 1600px;
+  position: absolute;
+  left: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.vl8 {
+  border-left: 8px solid #007337;
+  height: 1600px;
+  position: absolute;
+  right: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+/* Åbningstider fanen */
+
+.p7 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p8 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.skema {
+    width: 70%;
+    margin-left: 180px;
+}
+
+.vl9 {
+  border-left: 8px solid #007337;
+  height: 1439px;
+  position: absolute;
+  left: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.vl10 {
+  border-left: 8px solid #007337;
+  height: 1439px;
+  position: absolute;
+  right: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+/* Priser fanen */
+
+.p9 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p10 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p11 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.p12 {
+    font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.vl11 {
+  border-left: 8px solid #007337;
+  height: 1205px;
+  position: absolute;
+  left: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.vl12 {
+  border-left: 8px solid #007337;
+  height: 1205px;
+  position: absolute;
+  right: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+/* Booking fanen */
+
+.tab {
+       font-family: 'raleway bold', sans-serif;
+    color: #462d18;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center; 
+}
+
+.send{
+   margin-right: 597px; 
+}
+
+.vl13 {
+  border-left: 8px solid #007337;
+  height: 1160px;
+  position: absolute;
+  left: 10%;
+  top: 0;
+  margin-top: 2px;
+}
+
+.vl14 {
+  border-left: 8px solid #007337;
+  height: 1160px;
+  position: absolute;
+  right: 10%;
+  top: 0;
+  margin-top: 2px;
+}

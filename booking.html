@@ -9,18 +9,64 @@
 
     <body>
         <a href="gorillapark.html"><img src="logoweb.png" alt="logo" class="logoweb"/></a>
-        <div class="vl"></div>
-        <div class="vl2"></div>
+        <div class="vl13"></div>
+        <div class="vl14"></div>
         <div class="hr"></div>
         <div class="hr2"></div>
     <ul>
             <li><a href="svendborg.html">Svendborg</a><li class="button"></li> 
             <li><a href="vejle.html">Vejle</a><li class="button"></li>
             <li><a href="nyheder.html">Nyheder</a><li class="button"></li>
-            <li><a href="%C3%A5bningstider.html">Åbningstider</a><li class="button"></li>
+            <li><a href="aabningstider.html">Åbningstider</a><li class="button"></li>
             <li><a href="priser.html">Priser</a><li class="button"></li>
             <li><a href="booking.html">Booking</a><li class="button"></li>
-    </ul>    
+    </ul> 
+        
+    <form id="regForm" action="">
+
+<h1>Booking</h1>
+
+<!-- One "tab" for each step in the form: -->
+<div class="tab">Navn:
+  <p><input placeholder="Fornavn" oninput="this.className = ''"></p>
+  <p><input placeholder="Efternavn" oninput="this.className = ''"></p>
+</div>
+
+<div class="tab">Kontakt info:
+  <p><input placeholder="E-mail" oninput="this.className = ''"></p>
+  <p><input placeholder="Telefon" oninput="this.className = ''"></p>
+</div>
+
+<div class="tab">Booking dato:
+  <p><input placeholder="Dag" oninput="this.className = ''"></p>
+  <p><input placeholder="Måned" oninput="this.className = ''"></p>
+  <p><input placeholder="År" oninput="this.className = ''"></p>
+  <p><input placeholder="Tid" oninput="this.className = ''"></p>    
+</div>
+        
+<div class="tab">Hvor mange deltager?:
+  <p><input placeholder="Antal deltager" oninput="this.className = ''"></p>
+</div>        
+
+<div class="tab">Hvilken Gorilla Park ønsker du/I at besøge?:
+  <p><input placeholder="Svendborg/Vejle" oninput="this.className = ''"></p>
+</div>
+
+<div style="overflow:auto;" class="send">
+  <div style="float:right;">
+    <button type="button" id="prevBtn" onclick="nextPrev(-1)">Send</button>
+  </div>
+</div>
+
+<!-- Circles which indicates the steps of the form: -->
+<div style="text-align:center;margin-top:40px;">
+  <span class="step"></span>
+  <span class="step"></span>
+  <span class="step"></span>
+  <span class="step"></span>
+</div>
+
+</form>    
         
 
         
